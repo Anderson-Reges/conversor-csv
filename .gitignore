@@ -24,6 +24,7 @@ hs_err_pid*
 
 target/*
 .idea
+.idea/misc.xml
 
 .settings/*
 
